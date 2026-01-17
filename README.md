@@ -24,3 +24,4 @@ The frontend, a React application, will be hosted on AWS Amplify, and API reques
 ![alt text](design/serverless-cloud-dictionary.png)
 
 ## &rarr; Final Result
+![alt text](design/search-results.png)
